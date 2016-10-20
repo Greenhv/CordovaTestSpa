@@ -21,5 +21,5 @@ var HomeView = function (service) {
     return this;
   };
 
-  // this.initialize();
+  this.initialize();
 }
